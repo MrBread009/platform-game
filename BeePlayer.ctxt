@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BeePlayer
+comment1.params=x\ y\ boss
+comment1.target=BeePlayer(int,\ int,\ BeeBoss)
+comment2.params=thingBeingTouched
+comment2.target=void\ die(PlatformActor)
+numComments=3

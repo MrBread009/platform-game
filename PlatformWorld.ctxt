@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PlatformWorld
+comment1.params=
+comment1.target=PlatformWorld()
+comment2.params=
+comment2.target=void\ advanceLevel()
+comment3.params=
+comment3.target=ScrollHandler\ getScrollHandler()
+comment4.params=
+comment4.target=LevelHandler\ getLevelHandler()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=originalActor\ newActor\ delay
+comment6.target=void\ addObjectAfterDelay(greenfoot.Actor,\ greenfoot.Actor,\ int)
+comment7.params=arg0
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8

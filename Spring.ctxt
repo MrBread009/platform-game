@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Spring
+comment1.params=actor
+comment1.target=boolean\ isDeadly(PlatformActor)
+numComments=2

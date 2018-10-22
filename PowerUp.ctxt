@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment1.params=actor
+comment1.target=boolean\ isDeadly(PlatformActor)
+comment2.params=thingBeingTouched
+comment2.target=void\ die(PlatformActor)
+numComments=3

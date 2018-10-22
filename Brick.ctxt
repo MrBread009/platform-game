@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Brick
+comment1.params=thingBeingTouched
+comment1.target=boolean\ isDeadly(PlatformActor)
+numComments=2

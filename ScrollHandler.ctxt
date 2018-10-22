@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ScrollHandler
+comment1.params=world
+comment1.target=ScrollHandler(PlatformWorld)
+comment2.params=
+comment2.target=int\ getScrollX()
+comment3.params=
+comment3.target=int\ getScrollY()
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=
+comment5.target=void\ scrollWorld()
+comment6.params=scrollX\ scrollY
+comment6.target=void\ performScroll(int,\ int)
+numComments=7

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment1.params=thingBeingTouched
+comment1.target=boolean\ isDeadly(PlatformActor)
+comment2.params=thingBeingTouched
+comment2.target=void\ die(PlatformActor)
+comment3.params=x\ y
+comment3.target=HumanPlayer(int,\ int)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ handleMovement()
+comment6.params=x\ y
+comment6.target=void\ clickHappened(int,\ int)
+comment7.params=arg0
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=thingKilled
+comment8.target=void\ afterKill(PlatformActor)
+comment9.params=arg0
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=10

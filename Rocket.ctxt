@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rocket
+comment1.params=startingX\ startingY
+comment1.target=Rocket(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=actor
+comment3.target=boolean\ isDeadly(PlatformActor)
+numComments=4

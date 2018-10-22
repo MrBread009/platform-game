@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fireball
+comment1.params=angle\ startingX\ startingY
+comment1.target=Fireball(double,\ int,\ int)
+comment2.params=scrollX\ scrollY
+comment2.target=void\ scroll(int,\ int)
+comment3.params=
+comment3.target=void\ handleMovement()
+comment4.params=actor
+comment4.target=boolean\ isDeadly(PlatformActor)
+comment5.params=thingKilled
+comment5.target=void\ afterKill(PlatformActor)
+numComments=6

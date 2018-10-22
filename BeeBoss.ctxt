@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BeeBoss
+comment1.params=
+comment1.target=BeeBoss()
+comment2.params=thingBeingTouched
+comment2.target=boolean\ isDeadly(PlatformActor)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ handleMovement()
+comment5.params=thingBeingTouched
+comment5.target=void\ die(PlatformActor)
+numComments=6

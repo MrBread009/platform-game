@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FallingObject
+comment1.params=
+comment1.target=void\ handleMovement()
+comment2.params=
+comment2.target=void\ fall()
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SolidBlock
+comment1.params=thingBeingTouched
+comment1.target=void\ die(PlatformActor)
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Collision
+comment1.params=a\ b
+comment1.target=Collision(PlatformActor,\ PlatformActor)
+comment10.params=
+comment10.target=int\ pushRightAmount()
+comment2.params=a\ b
+comment2.target=void\ calculate(PlatformActor,\ PlatformActor)
+comment3.params=
+comment3.target=boolean\ shouldPushLeft()
+comment4.params=
+comment4.target=boolean\ shouldPushRight()
+comment5.params=
+comment5.target=boolean\ shouldPushUp()
+comment6.params=
+comment6.target=boolean\ shouldPushDown()
+comment7.params=
+comment7.target=int\ pushUpAmount()
+comment8.params=
+comment8.target=int\ pushDownAmount()
+comment9.params=
+comment9.target=int\ pushLeftAmount()
+numComments=11
