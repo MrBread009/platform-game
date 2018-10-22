@@ -2,7 +2,7 @@ import greenfoot.*;
 
 public class BeeBoss extends PlatformActor
 {
-    private int _livesLeft = 5;
+    private int _livesLeft = 7;
     
     public BeeBoss()
     {
