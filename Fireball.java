@@ -5,6 +5,16 @@ public class Fireball extends PlatformActor
     private double _angle = 0;
     protected double _x = -1;
     protected double _y = -1;
+    protected double speed = 3;
+    
+    
+    
+     protected void setSpeed()
+    {
+        
+        speed = speed + 0.2;
+        
+    }
     
     public Fireball(double angle, int startingX, int startingY) 
     {
@@ -26,10 +36,11 @@ public class Fireball extends PlatformActor
             _x = getX();
             _y = getY();
         }
-        _x += Math.sin(_angle) * 3;
-        _y += Math.cos(_angle) * 3;
+        _x += Math.sin(_angle) * speed;
+        _y += Math.cos(_angle) * speed;
         setLocation((int)_x, (int)_y);
         super.handleMovement();
+        setSpeed();
     }    
     
     public boolean isDeadly(PlatformActor actor)
@@ -48,4 +59,8 @@ public class Fireball extends PlatformActor
     {
         die(thingKilled);
     }
+    
+   
+    
+    
 }
